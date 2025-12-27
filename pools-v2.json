@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "name": "Mining-Dutch",
+    "addresses": [
+      "1J3KUhokRps1joHaqm78wj2PJmEUNs9spR"
+    ],
+    "tags": ["/Mining-Dutch/"],
+    "link": "https://www.mining-dutch.nl/"
+  },
+  {
+    "id": 2,
+    "name": "1Miner",
+    "addresses": [
+      "13WMNLMU8RpWpuEa7dFxLskYNNSwzQMGFk"
+    ],
+    "tags": [],
+    "link": "https://1miner.net/#bc22"
+  },
+    {
+    "id": 3,
+    "name": "JellyFC",
+    "addresses": [
+      "16Xi1RaVjN9rcUw99eVJ2QnNY3gNsGBThM"
+    ],
+    "tags": [],
+    "link": "https://jellyfc.com"
+  },
+  {
+    "id": 4,
+    "name": "JellyFC (SOLO)",
+    "addresses": [
+      "13HwyRiReAtVDxuiFDhCnhT8tiFtjxe2vr"
+    ],
+    "tags": [],
+    "link": "https://jellyfc.com"
+  },
+  {
+    "id": 5,
+    "name": "Letsmine",
+    "addresses": [
+      "bc1qu5euj3ac7l5f57gtzcfmc74wjg2qzplc6wkz5v"
+    ],
+    "tags": ["/letsmine.it/"],
+    "link": "https://letsmine.it"
+  },
+  {
+    "id": 6,
+    "name": "UgPool.org",
+    "addresses": [
+      "1Cj67ZRt9hxqFXR64fjR12vbr65Fvi9ond"
+    ],
+    "tags": [],
+    "link": "https://ugpool.org"
+  },
+  {
+    "id": 7,
+    "name": "Zpool",
+    "addresses": [
+      "1QHmuZcwLi8aHLLHDXYye1SJmqoDTZppnW"
+    ],
+    "tags": ["/zpool.ca/"],
+    "link": "https://zpool.ca"
+  },
+  {
+    "id": 8,
+    "name": "AltcoinsPool",
+    "addresses": [
+      "1g7xn9JFVQputkPTrEW7G2FDMMo2VpZXt"
+    ],
+    "tags": ["Official"],
+    "link": "https://AltcoinsPool.cc"
+  },
+  {
+    "id": 9,
+    "name": "NerdPool",
+    "addresses": [
+      "1NeMusT3aBLR4qd57TZBiRLz52Ave7oLP1"
+    ],
+    "tags": [],
+    "link": "https://nerdpool.xyz/#bitcoin-ii"
+  },
+  {
+    "id": 10,
+    "name": "Hash-Hut",
+    "addresses": [
+      "bc1qu0x54shkqzae8986xk8arm5j5qsukrazyuye6j"
+    ],
+    "tags": ["/hash-hut.net/"],
+    "link": "https://hash-hut.net"
+  },
+  {
+    "id": 11,
+    "name": "NitoPool",
+    "addresses": [
+      "bc1q744mxn4paq02uv09x20jpe26mqdk29y0886kak"
+    ],
+    "tags": [],
+    "link": "https://pool.nitopool.fr/#bt2pplnsbf"
+  },
+  {
+    "id": 12,
+    "name": "NitoPool (SOLO)",
+    "addresses": [
+      "bc1q744mxn4paq02uv09x20jpe26mqdk29y0886kak"
+    ],
+    "tags": [],
+    "link": "https://pool.nitopool.fr/#bt2solo"
+  },
+  {
+    "id": 13,
+    "name": "SmilingPool (SOLO)",
+    "addresses": [
+      "12c9XHZ5F88B5DHXnti15FM3kML3Bg6dE2"
+    ],
+    "tags": [],
+    "link": "https://smilingpool.xyz/#bciisolo"
+  },
+  {
+    "id": 14,
+    "name": "ZergPool",
+    "addresses": [
+      "bc1qjgtk456ge3gwvpf7c60f697syqhl8my0nn54pm"
+    ],
+    "tags": ["zergpool.com"],
+    "link": "https://zergpool.com"
+  },
+  {
+    "id": 15,
+    "name": "NitroPool",
+    "addresses": [
+      "1LSHpwmHT9x78f59rVqoXPxWQPhXAo3PP8"
+    ],
+    "tags": ["NitroPool"],
+    "link": "https://nitropool.net"
+  },
+  {
+    "id": 16,
+    "name": "SoloHash (SOLO)",
+    "addresses": [
+      "bc1qcm464wax2wtu0vtf4jwqscngx2dv38lzl2dg0r"
+    ],
+    "tags": ["Mined by SoloHash.co.uk"],
+    "link": "https://solohash.co.uk/pool/bitcoinII-solo"
+  },
+  {
+    "id": 17,
+    "name": "SoloHash",
+    "addresses": [
+      "bc1q4k5j7m8jggscys8dc4dyw09uz28c74du9m9z2u"
+    ],
+    "tags": ["Mined by SoloHash.co.uk"],
+    "link": "https://solohash.co.uk/pool/bitcoinII-pplns"
+  },
+  {
+    "id": 18,
+    "name": "Kryptex (SOLO)",
+    "addresses": [
+      "16H61tkeGUQsUjmStKFAVeCj52A7SEug3G"
+    ],
+    "tags": ["/pool.kryptex.com/"],
+    "link": "https://pool.kryptex.com/bc2"
+  },
+  {
+    "id": 19,
+    "name": "Hash3030 (SOLO)",
+    "addresses": [
+      "1Mftq4JnmERCEwr8Du4ZMgGht8HU5YJaaY"
+    ],
+    "tags": [],
+    "link": "https://hash3030.xyz/l1/#bc2solo"
+  },
+  {
+    "id": 20,
+    "name": "Koinium",
+    "addresses": [
+      "1L5SdQyU1n78UnnZ842QzbQjExfoKm8qB3"
+    ],
+    "tags": [],
+    "link": "/"
+  },
+  {
+    "id": 20,
+    "name": "MolePool (SOLO)",
+    "addresses": [
+      "bc1qpv3makzaslp564wn2m8j7jhx7pjxyds304wl8d"
+    ],
+    "tags": ["/molepool.com/"],
+    "link": "https://bc2.molepool.com"
+  },
+  {
+    "id": 21,
+    "name": "JellyFC Treasury",
+    "addresses": [
+      "bc1qqjdk55n229hmrqdquh8tz3mvsqgrvvsl2x2d4h"
+    ],
+    "tags": [],
+    "link": "https://jellyfc.com"
+  },
+  {
+    "id": 22,
+    "name": "Solo Pool",
+    "addresses": [
+      "1JjZ568RjapLV7pBaU12AydCk4vyZJSpWQ"
+    ],
+    "tags": ["solopool.org"],
+    "link": "https://bc2.solopool.org"
+  },
+  {
+    "id": 23,
+    "name": "OneClickMiner",
+    "addresses": [
+      "1AaoWQy84Hnakyrmn2BHF3bhXN1dpVHSt2"
+    ],
+    "tags": ["OneClickMiner.com"],
+    "link": "https://oneclickminer.com"
+  },
+  {
+    "id": 24,
+    "name": "GO-MiningPool (SOLO)",
+    "addresses": [
+      "1CQs8j9jPnGTippAv97yKpdeni8pQBBy5V"
+    ],
+    "tags": ["Mined by GO-MININGPOOL"],
+    "link": "https://go-poolmining.com"
+  },
+  {
+    "id": 25,
+    "name": "UgPool",
+    "addresses": [
+      "1Gp7D9CbqndxHJ9Qvg7attUeQYMLB84AMj"
+    ],
+    "tags": [],
+    "link": "https://ugpool.lol"
+  }
+]
