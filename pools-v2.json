@@ -5,7 +5,6 @@
     "addresses": [
       "1J3KUhokRps1joHaqm78wj2PJmEUNs9spR"
     ],
-    "tags": ["Mining-Dutch"],
     "link": "https://www.mining-dutch.nl/"
   },
   {
@@ -15,7 +14,6 @@
       "13WMNLMU8RpWpuEa7dFxLskYNNSwzQMGFk",
       "18QveDJqWmBdTvZt8A7BEmHjPqSyoiengY"
     ],
-    "tags": [],
     "link": "https://1miner.net/"
   },
   {
@@ -26,7 +24,6 @@
       "13HwyRiReAtVDxuiFDhCnhT8tiFtjxe2vr",
       "bc1qqjdk55n229hmrqdquh8tz3mvsqgrvvsl2x2d4h"
     ],
-    "tags": [],
     "link": "https://jellyfc.com"
   },
   {
@@ -35,7 +32,6 @@
     "addresses": [
       "bc1qu5euj3ac7l5f57gtzcfmc74wjg2qzplc6wkz5v"
     ],
-    "tags": ["letsmine.it"],
     "link": "https://letsmine.it"
   },
   {
@@ -45,7 +41,6 @@
       "1Cj67ZRt9hxqFXR64fjR12vbr65Fvi9ond",
       "1Gp7D9CbqndxHJ9Qvg7attUeQYMLB84AMj"
     ],
-    "tags": ["ugpool.org", "ugpool.lol"],
     "link": "https://ugpool.org"
   },
   {
@@ -54,7 +49,6 @@
     "addresses": [
       "1QHmuZcwLi8aHLLHDXYye1SJmqoDTZppnW"
     ],
-    "tags": ["zpool.ca"],
     "link": "https://zpool.ca"
   },
   {
@@ -63,7 +57,6 @@
     "addresses": [
       "1g7xn9JFVQputkPTrEW7G2FDMMo2VpZXt"
     ],
-    "tags": [],
     "link": "https://AltcoinsPool.cc"
   },
   {
@@ -72,7 +65,6 @@
     "addresses": [
       "1NeMusT3aBLR4qd57TZBiRLz52Ave7oLP1"
     ],
-    "tags": [],
     "link": "https://nerdpool.xyz/#bitcoin-ii"
   },
   {
@@ -81,7 +73,6 @@
     "addresses": [
       "bc1qu0x54shkqzae8986xk8arm5j5qsukrazyuye6j"
     ],
-    "tags": ["hash-hut.net"],
     "link": "https://hash-hut.net"
   },
   {
@@ -90,7 +81,6 @@
     "addresses": [
       "bc1q744mxn4paq02uv09x20jpe26mqdk29y0886kak"
     ],
-    "tags": [],
     "link": "https://pool.nitopool.fr"
   },
   {
@@ -99,7 +89,6 @@
     "addresses": [
       "12c9XHZ5F88B5DHXnti15FM3kML3Bg6dE2"
     ],
-    "tags": [],
     "link": "https://smilingpool.xyz/#bciisolo"
   },
   {
@@ -108,7 +97,6 @@
     "addresses": [
       "bc1qjgtk456ge3gwvpf7c60f697syqhl8my0nn54pm"
     ],
-    "tags": ["zergpool.com"],
     "link": "https://zergpool.com"
   },
   {
@@ -117,7 +105,6 @@
     "addresses": [
       "1LSHpwmHT9x78f59rVqoXPxWQPhXAo3PP8"
     ],
-    "tags": ["NitroPool"],
     "link": "https://nitropool.net"
   },
   {
@@ -127,7 +114,6 @@
       "bc1qcm464wax2wtu0vtf4jwqscngx2dv38lzl2dg0r",
       "bc1q4k5j7m8jggscys8dc4dyw09uz28c74du9m9z2u"
     ],
-    "tags": ["SoloHash.co.uk"],
     "link": "https://solohash.co.uk"
   },
   {
@@ -136,7 +122,6 @@
     "addresses": [
       "16H61tkeGUQsUjmStKFAVeCj52A7SEug3G"
     ],
-    "tags": ["pool.kryptex.com"],
     "link": "https://pool.kryptex.com/bc2"
   },
   {
@@ -145,7 +130,6 @@
     "addresses": [
       "1Mftq4JnmERCEwr8Du4ZMgGht8HU5YJaaY"
     ],
-    "tags": [],
     "link": "https://hash3030.xyz/l1/#bc2solo"
   },
   {
@@ -154,7 +138,6 @@
     "addresses": [
       "1L5SdQyU1n78UnnZ842QzbQjExfoKm8qB3"
     ],
-    "tags": [],
     "link": "/"
   },
   {
@@ -163,7 +146,6 @@
     "addresses": [
       "bc1qpv3makzaslp564wn2m8j7jhx7pjxyds304wl8d"
     ],
-    "tags": ["molepool.com"],
     "link": "https://bc2.molepool.com"
   },
   {
@@ -172,7 +154,6 @@
     "addresses": [
       "1JjZ568RjapLV7pBaU12AydCk4vyZJSpWQ"
     ],
-    "tags": ["solopool.org"],
     "link": "https://bc2.solopool.org"
   },
   {
@@ -181,7 +162,6 @@
     "addresses": [
       "1AaoWQy84Hnakyrmn2BHF3bhXN1dpVHSt2"
     ],
-    "tags": ["OneClickMiner.com"],
     "link": "https://oneclickminer.com"
   },
   {
@@ -190,7 +170,6 @@
     "addresses": [
       "1CQs8j9jPnGTippAv97yKpdeni8pQBBy5V"
     ],
-    "tags": ["GO-MININGPOOL"],
     "link": "https://go-poolmining.com"
   },
   {
