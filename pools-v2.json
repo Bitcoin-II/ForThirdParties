@@ -5,7 +5,7 @@
     "addresses": [
       "1J3KUhokRps1joHaqm78wj2PJmEUNs9spR"
     ],
-    "tags": ["/Mining-Dutch/"],
+    "tags": ["Mining-Dutch"],
     "link": "https://www.mining-dutch.nl/"
   },
   {
@@ -18,7 +18,7 @@
     "tags": [],
     "link": "https://1miner.net/#bc22"
   },
-    {
+  {
     "id": 3,
     "name": "JellyFC",
     "addresses": [
@@ -33,7 +33,7 @@
     "addresses": [
       "13HwyRiReAtVDxuiFDhCnhT8tiFtjxe2vr"
     ],
-    "tags": [],
+    "tags": ["SOLO"],
     "link": "https://jellyfc.com"
   },
   {
@@ -42,7 +42,7 @@
     "addresses": [
       "bc1qu5euj3ac7l5f57gtzcfmc74wjg2qzplc6wkz5v"
     ],
-    "tags": ["/letsmine.it/"],
+    "tags": ["letsmine.it"],
     "link": "https://letsmine.it"
   },
   {
@@ -60,7 +60,7 @@
     "addresses": [
       "1QHmuZcwLi8aHLLHDXYye1SJmqoDTZppnW"
     ],
-    "tags": ["/zpool.ca/"],
+    "tags": ["zpool.ca"],
     "link": "https://zpool.ca"
   },
   {
@@ -87,7 +87,7 @@
     "addresses": [
       "bc1qu0x54shkqzae8986xk8arm5j5qsukrazyuye6j"
     ],
-    "tags": ["/hash-hut.net/"],
+    "tags": ["hash-hut.net"],
     "link": "https://hash-hut.net"
   },
   {
@@ -105,7 +105,7 @@
     "addresses": [
       "bc1q744mxn4paq02uv09x20jpe26mqdk29y0886kak"
     ],
-    "tags": [],
+    "tags": ["SOLO"],
     "link": "https://pool.nitopool.fr/#bt2solo"
   },
   {
@@ -114,7 +114,7 @@
     "addresses": [
       "12c9XHZ5F88B5DHXnti15FM3kML3Bg6dE2"
     ],
-    "tags": [],
+    "tags": ["SOLO"],
     "link": "https://smilingpool.xyz/#bciisolo"
   },
   {
@@ -141,7 +141,7 @@
     "addresses": [
       "bc1qcm464wax2wtu0vtf4jwqscngx2dv38lzl2dg0r"
     ],
-    "tags": ["Mined by SoloHash.co.uk"],
+    "tags": ["SOLO", "SoloHash.co.uk"],
     "link": "https://solohash.co.uk/pool/bitcoinII-solo"
   },
   {
@@ -150,7 +150,7 @@
     "addresses": [
       "bc1q4k5j7m8jggscys8dc4dyw09uz28c74du9m9z2u"
     ],
-    "tags": ["Mined by SoloHash.co.uk"],
+    "tags": ["SoloHash.co.uk"],
     "link": "https://solohash.co.uk/pool/bitcoinII-pplns"
   },
   {
@@ -159,7 +159,7 @@
     "addresses": [
       "16H61tkeGUQsUjmStKFAVeCj52A7SEug3G"
     ],
-    "tags": ["/pool.kryptex.com/"],
+    "tags": ["SOLO", "pool.kryptex.com"],
     "link": "https://pool.kryptex.com/bc2"
   },
   {
@@ -168,7 +168,7 @@
     "addresses": [
       "1Mftq4JnmERCEwr8Du4ZMgGht8HU5YJaaY"
     ],
-    "tags": [],
+    "tags": ["SOLO"],
     "link": "https://hash3030.xyz/l1/#bc2solo"
   },
   {
@@ -181,16 +181,16 @@
     "link": "/"
   },
   {
-    "id": 20,
+    "id": 21,
     "name": "MolePool (SOLO)",
     "addresses": [
       "bc1qpv3makzaslp564wn2m8j7jhx7pjxyds304wl8d"
     ],
-    "tags": ["/molepool.com/"],
+    "tags": ["SOLO", "molepool.com"],
     "link": "https://bc2.molepool.com"
   },
   {
-    "id": 21,
+    "id": 22,
     "name": "JellyFC Treasury",
     "addresses": [
       "bc1qqjdk55n229hmrqdquh8tz3mvsqgrvvsl2x2d4h"
@@ -199,16 +199,16 @@
     "link": "https://jellyfc.com"
   },
   {
-    "id": 22,
+    "id": 23,
     "name": "Solo Pool",
     "addresses": [
       "1JjZ568RjapLV7pBaU12AydCk4vyZJSpWQ"
     ],
-    "tags": ["solopool.org"],
+    "tags": ["SOLO", "solopool.org"],
     "link": "https://bc2.solopool.org"
   },
   {
-    "id": 23,
+    "id": 24,
     "name": "OneClickMiner",
     "addresses": [
       "1AaoWQy84Hnakyrmn2BHF3bhXN1dpVHSt2"
@@ -217,16 +217,16 @@
     "link": "https://oneclickminer.com"
   },
   {
-    "id": 24,
+    "id": 25,
     "name": "GO-MiningPool (SOLO)",
     "addresses": [
       "1CQs8j9jPnGTippAv97yKpdeni8pQBBy5V"
     ],
-    "tags": ["Mined by GO-MININGPOOL"],
+    "tags": ["SOLO", "GO-MININGPOOL"],
     "link": "https://go-poolmining.com"
   },
   {
-    "id": 25,
+    "id": 26,
     "name": "UgPool",
     "addresses": [
       "1Gp7D9CbqndxHJ9Qvg7attUeQYMLB84AMj"
